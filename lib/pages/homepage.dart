@@ -87,7 +87,7 @@ class ProfilePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: const Text(
-        'Profile Page',
+        'Farmer Profile Page',
         style: TextStyle(color: Colors.black, fontSize: 24),
       ),
     );
